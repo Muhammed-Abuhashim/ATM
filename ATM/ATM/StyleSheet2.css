@@ -1,0 +1,43 @@
+﻿body {
+
+    margin: 0;
+    padding: 0;
+    background-image: url('banche1.jpg');
+    background-size: cover;
+    font-family: sans-serif;
+    height: 683px;
+}
+.btnsubmit4 {
+    border-style: none;
+    border-color: inherit;
+    border-width: medium;
+    outline: none;
+    font-size: 16px;
+    color: #fff;
+    background-color: rgb(153, 153, 153);
+    cursor: pointer;
+    border-radius: 20px;
+    transition: .3s ease-in-out;
+}
+
+    .btnsubmit4:hover {
+        background-color: rgb(0, 255, 255);
+    }
+.btnsubmit5 {
+    border-style: none;
+    border-color: inherit;
+    border-width: medium;
+    outline: none;
+    font-size: 16px;
+    color: #fff;
+    background-color: rgb(153, 153, 153);
+    cursor: pointer;
+    border-radius: 20px;
+    transition: .3s ease-in-out;
+}
+
+    .btnsubmit5:hover {
+        background-color: rgb(0, 255, 255);
+    }
+
+

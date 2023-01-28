@@ -1,0 +1,123 @@
+﻿body {
+    margin: 0 ;
+    padding: 0;
+    background-image: url('banche1.jpg');
+    background-size: cover;
+    font-family: sans-serif;
+}
+
+.loginbox{
+    position:absolute;
+    top:52%;
+    left:34%;
+    transform:translate(-50%,-50%);
+    width:500px;
+    height:603px;
+    padding:80px 40px;
+    box-sizing:border-box;
+    margin-left: 280px;
+    background:rgba(0,0,0,0.5);
+    }
+
+.user {
+    width: 264px;
+    overflow: hidden;
+    top: -9px;
+    left: 663px;
+    position: absolute;
+    background-image: url('images.jpg');
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+}
+
+h2 {
+    padding: 0;
+    margin: 0 0 0 9px;
+    text-align: center;
+    color: rgb(255, 217, 9);
+}
+
+lblusername,lblpassword {
+    font-weight: bold;
+    color: #FFFF00;
+    background-repeat: inherit;
+}
+
+.txtusername, .txtpassword, {
+    border: none;
+    border-bottom: 3px solid #fff;
+    outline: none;
+    height: 40px;
+    color: #fff;
+    font-size: 16px;
+    background-color: transparent;
+}
+
+
+
+.btnsubmit {
+    border: none;
+    outline: none;
+    height: 40px;
+    font-size: 16px;
+    color: #fff;
+    background-color: rgb(255,9,9);
+    cursor: pointer;
+    border-radius: 20px;
+    transition: .3s ease-in-out;
+}
+
+    .btnsubmit:hover {
+        background-color: rgb(255, 217, 9);
+    }
+
+.btnsubmit1 {
+    border: none;
+    outline: none;
+    height: 40px;
+    font-size: 16px;
+    color: #fff;
+    background-color: rgb(255,9,9);
+    cursor: pointer;
+    border-radius: 20px;
+    transition: .3s ease-in-out;
+}
+
+    .btnsubmit1:hover {
+        background-color: rgb(255,217,9);
+    }
+
+.btnsubmit2 {
+    border: none;
+    outline: none;
+    height: 40px;
+    font-size: 16px;
+    color: #fff;
+    background-color: rgb(255,9,9);
+    cursor: pointer;
+    border-radius: 20px;
+    transition: .3s ease-in-out;
+}
+
+    .btnsubmit2:hover {
+        background-color: rgb(255, 217, 9);  
+    }
+
+.btnsubmit3 {
+    border-style: none;
+    border-color: inherit;
+    border-width: medium;
+    outline: none;
+    height: 40px;
+    font-size: 16px;
+    color: #fff;
+    background-color: rgb(153, 153, 153);
+    cursor: pointer;
+    border-radius: 20px;
+    transition: .3s ease-in-out;
+    text-decoration: underline;
+}
+
+    .btnsubmit3:hover {
+        background-color: rgb(255,217,9);
+    }

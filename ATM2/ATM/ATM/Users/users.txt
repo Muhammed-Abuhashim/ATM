@@ -1,0 +1,4 @@
+Eissa,800
+Dido,8500
+Malika,8500
+Ahmed,3000

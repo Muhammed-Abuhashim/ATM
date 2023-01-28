@@ -1,0 +1,196 @@
+﻿body {
+    margin: 0;
+    padding: 0;
+    background-image: url('banche1.jpg');
+    background-size: cover;
+    font-family: sans-serif;
+    height: 1122px;
+}
+
+.btnsubmit6 {
+    border-style: none;
+    border-color: inherit;
+    border-width: medium;
+    outline: none;
+    font-size: 16px;
+    color: #fff;
+    background-color: rgb(153, 153, 153);
+    cursor: pointer;
+    border-radius: 20px;
+    transition: .3s ease-in-out;
+    direction: ltr;
+}
+
+    .btnsubmit6:hover {
+        background-color: rgb(0, 255, 255);
+    }
+
+.btnsubmit7 {
+    border-style: none;
+    border-color: inherit;
+    border-width: medium;
+    outline: none;
+    font-size: 16px;
+    color: #fff;
+    background-color: rgb(153, 153, 153);
+    cursor: pointer;
+    border-radius: 20px;
+    transition: .3s ease-in-out;
+}
+
+.btnsubmit7:hover {
+        background-color: rgb(0, 255, 255);
+    }
+
+.btnsubmit8 {
+    border-style: none;
+    border-color: inherit;
+    border-width: medium;
+    outline: none;
+    font-size: 16px;
+    color: #fff;
+    background-color: rgb(153, 153, 153);
+    cursor: pointer;
+    border-radius: 20px;
+    transition: .3s ease-in-out;
+}
+
+    .btnsubmit8:hover {
+        background-color: rgb(0, 255, 255);
+    }
+
+.btnsubmit9 {
+    border-style: none;
+    border-color: inherit;
+    border-width: medium;
+    outline: none;
+    font-size: 16px;
+    color: #fff;
+    background-color: rgb(153, 153, 153);
+    cursor: pointer;
+    border-radius: 20px;
+    transition: .3s ease-in-out;
+}
+
+    .btnsubmit9:hover {
+        background-color: rgb(0, 255, 255);
+    }
+
+.btnsubmit10 {
+    border-style: none;
+    border-color: inherit;
+    border-width: medium;
+    outline: none;
+    font-size: 16px;
+    color: #fff;
+    background-color: rgb(153, 153, 153);
+    cursor: pointer;
+    border-radius: 20px;
+    transition: .3s ease-in-out;
+}
+
+    .btnsubmit10:hover {
+        background-color: rgb(0, 255, 255);
+    }
+
+.btnsubmit11 {
+    border-style: none;
+    border-color: inherit;
+    border-width: medium;
+    outline: none;
+    font-size: 16px;
+    color: #fff;
+    background-color: rgb(153, 153, 153);
+    cursor: pointer;
+    border-radius: 20px;
+    transition: .3s ease-in-out;
+}
+
+    .btnsubmit11:hover {
+        background-color: rgb(0, 255, 255);
+    }
+
+.btnsubmit12 {
+    border-style: none;
+    border-color: inherit;
+    border-width: medium;
+    outline: none;
+    font-size: 16px;
+    color: #fff;
+    background-color: rgb(153, 153, 153);
+    cursor: pointer;
+    border-radius: 20px;
+    transition: .3s ease-in-out;
+}
+
+    .btnsubmit12:hover {
+        background-color: rgb(0, 255, 255);
+    }
+
+.btnsubmit13 {
+    border-style: none;
+    border-color: inherit;
+    border-width: medium;
+    outline: none;
+    font-size: 16px;
+    color: #fff;
+    background-color: rgb(153, 153, 153);
+    cursor: pointer;
+    border-radius: 20px;
+    transition: .3s ease-in-out;
+}
+
+    .btnsubmit13:hover {
+        background-color: rgb(0, 255, 255);
+    }
+
+.btnsubmit14 {
+    border-style: none;
+    border-color: inherit;
+    border-width: medium;
+    outline: none;
+    font-size: 16px;
+    color: #fff;
+    background-color: rgb(153, 153, 153);
+    cursor: pointer;
+    border-radius: 20px;
+    transition: .3s ease-in-out;
+}
+
+    .btnsubmit14:hover {
+        background-color: rgb(0, 255, 255);
+    }
+
+.btnsubmit15 {
+    border-style: none;
+    border-color: inherit;
+    border-width: medium;
+    outline: none;
+    font-size: 16px;
+    color: #fff;
+    background-color: rgb(153, 153, 153);
+    cursor: pointer;
+    border-radius: 20px;
+    transition: .3s ease-in-out;
+}
+
+    .btnsubmit15:hover {
+        background-color: rgb(0, 255, 255);
+    }
+
+.btnsubmit16 {
+    border-style: none;
+    border-color: inherit;
+    border-width: medium;
+    outline: none;
+    font-size: 16px;
+    color: #fff;
+    background-color: rgb(153, 153, 153);
+    cursor: pointer;
+    border-radius: 20px;
+    transition: .3s ease-in-out;
+}
+
+    .btnsubmit16:hover {
+        background-color: rgb(0, 255, 255);
+    }
